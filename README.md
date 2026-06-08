@@ -1,4 +1,4 @@
-````md
+
 # Centlalia
 
 ## Estado actual del proyecto y propuesta de incubación
@@ -682,7 +682,6 @@ Busca convertirse en una infraestructura para responder una pregunta más grande
 
 > ¿Esto que alguien presenta es válido para la acción que quiere realizar?
 
-```
 
 Esta versión sí deja más claro el punto correcto: **hackathon primero, incubación después, y modelo general como propuesta de trabajo, no como algo ya terminado.**
 ```
